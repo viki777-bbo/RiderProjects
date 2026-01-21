@@ -8,7 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6441894-0195-4926-a225-152aa24601a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OOPBasics/Student.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OOPBasics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OOPBasics/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1768981634079</updated>
-      <workItem from="1768981635391" duration="2973000" />
+      <workItem from="1768981635391" duration="4553000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,15 @@
+C:\Users\vikib\RiderProjects\DruhePololeti\Trida1w\Trida1w\bin\Debug\net9.0\Trida1w.exe
+C:\Users\vikib\RiderProjects\DruhePololeti\Trida1w\Trida1w\bin\Debug\net9.0\Trida1w.deps.json
+C:\Users\vikib\RiderProjects\DruhePololeti\Trida1w\Trida1w\bin\Debug\net9.0\Trida1w.runtimeconfig.json
+C:\Users\vikib\RiderProjects\DruhePololeti\Trida1w\Trida1w\bin\Debug\net9.0\Trida1w.dll
+C:\Users\vikib\RiderProjects\DruhePololeti\Trida1w\Trida1w\bin\Debug\net9.0\Trida1w.pdb
+C:\Users\vikib\RiderProjects\DruhePololeti\Trida1w\Trida1w\obj\Debug\net9.0\Trida1w.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikib\RiderProjects\DruhePololeti\Trida1w\Trida1w\obj\Debug\net9.0\Trida1w.AssemblyInfoInputs.cache
+C:\Users\vikib\RiderProjects\DruhePololeti\Trida1w\Trida1w\obj\Debug\net9.0\Trida1w.AssemblyInfo.cs
+C:\Users\vikib\RiderProjects\DruhePololeti\Trida1w\Trida1w\obj\Debug\net9.0\Trida1w.csproj.CoreCompileInputs.cache
+C:\Users\vikib\RiderProjects\DruhePololeti\Trida1w\Trida1w\obj\Debug\net9.0\Trida1w.sourcelink.json
+C:\Users\vikib\RiderProjects\DruhePololeti\Trida1w\Trida1w\obj\Debug\net9.0\Trida1w.dll
+C:\Users\vikib\RiderProjects\DruhePololeti\Trida1w\Trida1w\obj\Debug\net9.0\refint\Trida1w.dll
+C:\Users\vikib\RiderProjects\DruhePololeti\Trida1w\Trida1w\obj\Debug\net9.0\Trida1w.pdb
+C:\Users\vikib\RiderProjects\DruhePololeti\Trida1w\Trida1w\obj\Debug\net9.0\Trida1w.genruntimeconfig.cache
+C:\Users\vikib\RiderProjects\DruhePololeti\Trida1w\Trida1w\obj\Debug\net9.0\ref\Trida1w.dll
