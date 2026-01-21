@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nakupni_Seznam", "Nakupni_Seznam\Nakupni_Seznam.csproj", "{9E9FB81E-3193-42FD-921A-5492F1D3E6A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E9FB81E-3193-42FD-921A-5492F1D3E6A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E9FB81E-3193-42FD-921A-5492F1D3E6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E9FB81E-3193-42FD-921A-5492F1D3E6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E9FB81E-3193-42FD-921A-5492F1D3E6A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

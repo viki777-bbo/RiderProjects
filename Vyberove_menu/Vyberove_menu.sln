@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vyberove_menu", "Vyberove_menu\Vyberove_menu.csproj", "{E7A77F5F-EA12-48D8-A090-9F659ECA773D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7A77F5F-EA12-48D8-A090-9F659ECA773D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A77F5F-EA12-48D8-A090-9F659ECA773D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A77F5F-EA12-48D8-A090-9F659ECA773D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A77F5F-EA12-48D8-A090-9F659ECA773D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
