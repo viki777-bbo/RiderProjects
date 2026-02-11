@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SImulace_Bojove_Hry/1.0.0": {
+        "runtime": {
+          "SImulace_Bojove_Hry.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SImulace_Bojove_Hry/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

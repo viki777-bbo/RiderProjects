@@ -1,0 +1,15 @@
+C:\Users\vikib\RiderProjects\DruhePololeti\pretež\pretež\bin\Debug\net9.0\pretež.exe
+C:\Users\vikib\RiderProjects\DruhePololeti\pretež\pretež\bin\Debug\net9.0\pretež.deps.json
+C:\Users\vikib\RiderProjects\DruhePololeti\pretež\pretež\bin\Debug\net9.0\pretež.runtimeconfig.json
+C:\Users\vikib\RiderProjects\DruhePololeti\pretež\pretež\bin\Debug\net9.0\pretež.dll
+C:\Users\vikib\RiderProjects\DruhePololeti\pretež\pretež\bin\Debug\net9.0\pretež.pdb
+C:\Users\vikib\RiderProjects\DruhePololeti\pretež\pretež\obj\Debug\net9.0\pretež.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikib\RiderProjects\DruhePololeti\pretež\pretež\obj\Debug\net9.0\pretež.AssemblyInfoInputs.cache
+C:\Users\vikib\RiderProjects\DruhePololeti\pretež\pretež\obj\Debug\net9.0\pretež.AssemblyInfo.cs
+C:\Users\vikib\RiderProjects\DruhePololeti\pretež\pretež\obj\Debug\net9.0\pretež.csproj.CoreCompileInputs.cache
+C:\Users\vikib\RiderProjects\DruhePololeti\pretež\pretež\obj\Debug\net9.0\pretež.sourcelink.json
+C:\Users\vikib\RiderProjects\DruhePololeti\pretež\pretež\obj\Debug\net9.0\pretež.dll
+C:\Users\vikib\RiderProjects\DruhePololeti\pretež\pretež\obj\Debug\net9.0\refint\pretež.dll
+C:\Users\vikib\RiderProjects\DruhePololeti\pretež\pretež\obj\Debug\net9.0\pretež.pdb
+C:\Users\vikib\RiderProjects\DruhePololeti\pretež\pretež\obj\Debug\net9.0\pretež.genruntimeconfig.cache
+C:\Users\vikib\RiderProjects\DruhePololeti\pretež\pretež\obj\Debug\net9.0\ref\pretež.dll

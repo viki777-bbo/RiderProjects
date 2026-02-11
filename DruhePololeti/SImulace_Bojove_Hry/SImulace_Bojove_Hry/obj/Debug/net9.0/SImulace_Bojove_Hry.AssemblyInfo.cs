@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Trida1w")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SImulace_Bojove_Hry")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a64ab7df0cfd6c46acf67df52769babc6e9a342d")]
-[assembly: System.Reflection.AssemblyProductAttribute("Trida1w")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Trida1w")]
+[assembly: System.Reflection.AssemblyProductAttribute("SImulace_Bojove_Hry")]
+[assembly: System.Reflection.AssemblyTitleAttribute("SImulace_Bojove_Hry")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild

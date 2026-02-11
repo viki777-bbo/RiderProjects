@@ -1,0 +1,15 @@
+C:\Users\vikib\RiderProjects\DruhePololeti\SImulace_Bojove_Hry\SImulace_Bojove_Hry\bin\Debug\net9.0\SImulace_Bojove_Hry.exe
+C:\Users\vikib\RiderProjects\DruhePololeti\SImulace_Bojove_Hry\SImulace_Bojove_Hry\bin\Debug\net9.0\SImulace_Bojove_Hry.deps.json
+C:\Users\vikib\RiderProjects\DruhePololeti\SImulace_Bojove_Hry\SImulace_Bojove_Hry\bin\Debug\net9.0\SImulace_Bojove_Hry.runtimeconfig.json
+C:\Users\vikib\RiderProjects\DruhePololeti\SImulace_Bojove_Hry\SImulace_Bojove_Hry\bin\Debug\net9.0\SImulace_Bojove_Hry.dll
+C:\Users\vikib\RiderProjects\DruhePololeti\SImulace_Bojove_Hry\SImulace_Bojove_Hry\bin\Debug\net9.0\SImulace_Bojove_Hry.pdb
+C:\Users\vikib\RiderProjects\DruhePololeti\SImulace_Bojove_Hry\SImulace_Bojove_Hry\obj\Debug\net9.0\SImulace_Bojove_Hry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikib\RiderProjects\DruhePololeti\SImulace_Bojove_Hry\SImulace_Bojove_Hry\obj\Debug\net9.0\SImulace_Bojove_Hry.AssemblyInfoInputs.cache
+C:\Users\vikib\RiderProjects\DruhePololeti\SImulace_Bojove_Hry\SImulace_Bojove_Hry\obj\Debug\net9.0\SImulace_Bojove_Hry.AssemblyInfo.cs
+C:\Users\vikib\RiderProjects\DruhePololeti\SImulace_Bojove_Hry\SImulace_Bojove_Hry\obj\Debug\net9.0\SImulace_Bojove_Hry.csproj.CoreCompileInputs.cache
+C:\Users\vikib\RiderProjects\DruhePololeti\SImulace_Bojove_Hry\SImulace_Bojove_Hry\obj\Debug\net9.0\SImulace_Bojove_Hry.sourcelink.json
+C:\Users\vikib\RiderProjects\DruhePololeti\SImulace_Bojove_Hry\SImulace_Bojove_Hry\obj\Debug\net9.0\SImulace_Bojove_Hry.dll
+C:\Users\vikib\RiderProjects\DruhePololeti\SImulace_Bojove_Hry\SImulace_Bojove_Hry\obj\Debug\net9.0\refint\SImulace_Bojove_Hry.dll
+C:\Users\vikib\RiderProjects\DruhePololeti\SImulace_Bojove_Hry\SImulace_Bojove_Hry\obj\Debug\net9.0\SImulace_Bojove_Hry.pdb
+C:\Users\vikib\RiderProjects\DruhePololeti\SImulace_Bojove_Hry\SImulace_Bojove_Hry\obj\Debug\net9.0\SImulace_Bojove_Hry.genruntimeconfig.cache
+C:\Users\vikib\RiderProjects\DruhePololeti\SImulace_Bojove_Hry\SImulace_Bojove_Hry\obj\Debug\net9.0\ref\SImulace_Bojove_Hry.dll

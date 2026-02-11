@@ -1,0 +1,15 @@
+C:\Users\vikib\RiderProjects\DruhePololeti\Student\Student\bin\Debug\net9.0\Student.exe
+C:\Users\vikib\RiderProjects\DruhePololeti\Student\Student\bin\Debug\net9.0\Student.deps.json
+C:\Users\vikib\RiderProjects\DruhePololeti\Student\Student\bin\Debug\net9.0\Student.runtimeconfig.json
+C:\Users\vikib\RiderProjects\DruhePololeti\Student\Student\bin\Debug\net9.0\Student.dll
+C:\Users\vikib\RiderProjects\DruhePololeti\Student\Student\bin\Debug\net9.0\Student.pdb
+C:\Users\vikib\RiderProjects\DruhePololeti\Student\Student\obj\Debug\net9.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikib\RiderProjects\DruhePololeti\Student\Student\obj\Debug\net9.0\Student.AssemblyInfoInputs.cache
+C:\Users\vikib\RiderProjects\DruhePololeti\Student\Student\obj\Debug\net9.0\Student.AssemblyInfo.cs
+C:\Users\vikib\RiderProjects\DruhePololeti\Student\Student\obj\Debug\net9.0\Student.csproj.CoreCompileInputs.cache
+C:\Users\vikib\RiderProjects\DruhePololeti\Student\Student\obj\Debug\net9.0\Student.sourcelink.json
+C:\Users\vikib\RiderProjects\DruhePololeti\Student\Student\obj\Debug\net9.0\Student.dll
+C:\Users\vikib\RiderProjects\DruhePololeti\Student\Student\obj\Debug\net9.0\refint\Student.dll
+C:\Users\vikib\RiderProjects\DruhePololeti\Student\Student\obj\Debug\net9.0\Student.pdb
+C:\Users\vikib\RiderProjects\DruhePololeti\Student\Student\obj\Debug\net9.0\Student.genruntimeconfig.cache
+C:\Users\vikib\RiderProjects\DruhePololeti\Student\Student\obj\Debug\net9.0\ref\Student.dll
