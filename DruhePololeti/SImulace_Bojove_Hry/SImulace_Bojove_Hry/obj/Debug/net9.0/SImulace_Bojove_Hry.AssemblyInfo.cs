@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SImulace_Bojove_Hry")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a64ab7df0cfd6c46acf67df52769babc6e9a342d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b23b6e69831e91525443ccf3fc0213d21f9d2664")]
 [assembly: System.Reflection.AssemblyProductAttribute("SImulace_Bojove_Hry")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SImulace_Bojove_Hry")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

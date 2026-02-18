@@ -1,0 +1,15 @@
+C:\Users\vikib\RiderProjects\DruhePololeti\RPG_Postavy\RPG_Postavy\bin\Debug\net9.0\RPG_Postavy.exe
+C:\Users\vikib\RiderProjects\DruhePololeti\RPG_Postavy\RPG_Postavy\bin\Debug\net9.0\RPG_Postavy.deps.json
+C:\Users\vikib\RiderProjects\DruhePololeti\RPG_Postavy\RPG_Postavy\bin\Debug\net9.0\RPG_Postavy.runtimeconfig.json
+C:\Users\vikib\RiderProjects\DruhePololeti\RPG_Postavy\RPG_Postavy\bin\Debug\net9.0\RPG_Postavy.dll
+C:\Users\vikib\RiderProjects\DruhePololeti\RPG_Postavy\RPG_Postavy\bin\Debug\net9.0\RPG_Postavy.pdb
+C:\Users\vikib\RiderProjects\DruhePololeti\RPG_Postavy\RPG_Postavy\obj\Debug\net9.0\RPG_Postavy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikib\RiderProjects\DruhePololeti\RPG_Postavy\RPG_Postavy\obj\Debug\net9.0\RPG_Postavy.AssemblyInfoInputs.cache
+C:\Users\vikib\RiderProjects\DruhePololeti\RPG_Postavy\RPG_Postavy\obj\Debug\net9.0\RPG_Postavy.AssemblyInfo.cs
+C:\Users\vikib\RiderProjects\DruhePololeti\RPG_Postavy\RPG_Postavy\obj\Debug\net9.0\RPG_Postavy.csproj.CoreCompileInputs.cache
+C:\Users\vikib\RiderProjects\DruhePololeti\RPG_Postavy\RPG_Postavy\obj\Debug\net9.0\RPG_Postavy.sourcelink.json
+C:\Users\vikib\RiderProjects\DruhePololeti\RPG_Postavy\RPG_Postavy\obj\Debug\net9.0\RPG_Postavy.dll
+C:\Users\vikib\RiderProjects\DruhePololeti\RPG_Postavy\RPG_Postavy\obj\Debug\net9.0\refint\RPG_Postavy.dll
+C:\Users\vikib\RiderProjects\DruhePololeti\RPG_Postavy\RPG_Postavy\obj\Debug\net9.0\RPG_Postavy.pdb
+C:\Users\vikib\RiderProjects\DruhePololeti\RPG_Postavy\RPG_Postavy\obj\Debug\net9.0\RPG_Postavy.genruntimeconfig.cache
+C:\Users\vikib\RiderProjects\DruhePololeti\RPG_Postavy\RPG_Postavy\obj\Debug\net9.0\ref\RPG_Postavy.dll
